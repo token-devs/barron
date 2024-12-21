@@ -1,0 +1,6 @@
+{
+  "name": "Barron",
+  "symbol": "BAR",
+  "description": "Example token from Solana Making a Token guide.",
+  "image": "https://raw.githubusercontent.com/token-devs/barron/main/icon.jpeg"
+}
